@@ -128,4 +128,17 @@ body{
     .container .rightside .grid{
         grid-template-columns: 1fr;
     }
+      .container .leftside button{
+       margin-left: 17px;
+    }
+    .container .leftside input{
+        margin-left: 17px;
+    }
+    .container .leftside p{
+        margin-left: 35px;
+    }
+    .container .leftside h1{
+        margin-left: 35px;
+        font-size: 35px;
+    }
 }
